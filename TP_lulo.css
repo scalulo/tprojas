@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+p{
+    font-family: 'Times New Roman', Times, serif      ;
+    font-size: 20px;
+    color: #ffffff;
+    
+}
+li{
+    display:inline-block;
+    padding:50px 90px;
+    text-align:center;
+}
+
+a{
+    text-decoration:none;
+    color: #ffffff;
+    transition:1s;
+}
+a:hover{
+    color:#2a1b80;
+}
+
+img{
+    width: 1000px;
+    height: 500px;
+}
+ul{
+    font-family: 'Times New Roman', Times, serif ;
+    font-size:18px;
+    color :#ffffff;
+}
+h1{
+    font-family: 'Times New Roman', Times, serif ;
+    font-size: 50px;
+    color: #ffffff;
+    position: center;
+}
+header{
+    background-color: #000000;
+    color: white;
+    text-align: center;
+    width: 100%;
+    height: 15%;
+}
+main{
+    background-color: #2a1b80;
+    
+}
+tiene menú contextual
